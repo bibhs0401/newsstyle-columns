@@ -1,0 +1,36 @@
+body {
+    background-color: #EAE0DA;
+  }
+  
+  h1 {
+      color: black;
+      text-align: center;
+      font-size: 2.1rem;
+      letter-spacing: 0.3rem;
+      margin-top: 50px;
+      column-span: all;
+  }
+  
+  h2{
+    color: #D3756B;
+      text-align: center;
+      font-size: 1rem;
+  }
+
+  img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+  }
+
+  p{
+    padding:25px;
+    column-count: 3;
+    column-gap: 40px;
+  }
+
+  .container{
+    padding: 50px;
+  }
